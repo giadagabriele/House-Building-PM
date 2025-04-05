@@ -1,7 +1,7 @@
 # House-Building-PM
-Process Mining Group Project - Università della Calabria 
+***Process Mining Group Project - Università della Calabria***
 
-> `Report` is written in italian, `Presentation - ExamDay` is written in english
+["Report" is written in italian, "Presentation - ExamDay" is written in english]
 
 <br>
 
